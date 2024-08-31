@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-image: url('/websource/mosaic_blur.png');
+    background-position: center;
+    background-size: 150%;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    color: #ffffff;
+    margin-top: 20px;
+    font-family: "Yusei Magic", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-shadow: 1.6px 2px 1px rgba(0, 0, 0, 0.5);
+}
+
+video {
+    width: 98%;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
+    overflow: hidden;
+}
+
+.notification{
+    margin-top: 5px;
+    margin-bottom: 0px;
+    padding: 0px;
+    text-align: center;
+    font-family: "Yusei Magic", sans-serif;
+    text-shadow: 1.6px 2px 1px rgba(0, 0, 0, 0.5);
+    color: yellow;
+    background-color: rgba(255, 0, 0, 0.233);
+}
+
+.github-link {
+    position: flex;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    background-color: rgba(0, 255, 200, 0.151);
+    font-family: "Yusei Magic", sans-serif;
+    text-shadow: 1.2px 2px 1px rgba(0, 0, 0, 0.5);
+}
+
+.github-link img {
+    width: 24px;
+    height: 24px;
+    margin: 8px;
+}

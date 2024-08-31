@@ -1,0 +1,5 @@
+config.json
+/video/*
+/websource/kansai_thumbnail.png
+/websource/mosaic_blur.png
+videostreaming.exe
